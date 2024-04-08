@@ -141,7 +141,7 @@ button:nth-child(2):hover{
 
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("/images/Amay_portfolioimage.jpg");
+    background-image: url("Amay_portfolioimage.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     border: 1rem solid white;
